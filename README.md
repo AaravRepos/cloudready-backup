@@ -5,7 +5,7 @@ A backup of CloudReadys zip file
 
 Step 1: Get CloudReady file
  
-From here, go to the releases. Then download the ZIP file.
+From here, go to the releases (https://github.com/AaravRepos/cloudready-backup/releases). Then download the ZIP file.
 
 Step 2: Add Chromebook Recovery Utility to your Chrome browser
  
